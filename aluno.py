@@ -1,4 +1,4 @@
-class Aluno():
+class Aluno:
     def __init__(self, nome, matricula, telefone, email, uffmail, status):
         self.nome = nome
         self.matricula = matricula
